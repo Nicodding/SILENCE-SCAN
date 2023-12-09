@@ -9,7 +9,7 @@ pip install colorama
 
 
 ## Application
-![EXEMPLE : ](img/img.png)
+![EXEMPLE : ](img/1.png)
 
 ## Fonctions
 
