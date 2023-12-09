@@ -1,4 +1,4 @@
-# Silence ScanPort
+# SILENCE SCAN
 
 Python program that scans a target IP address for open ports. It uses the socket library to create a TCP connection to each port in a specified range and checks if the connection is successful. If a connection is established, the script identifies the service associated with the open port using a dictionary of well-known port numbers and their corresponding services. The script takes the target IP address as a command-line argument and can be customized with optional arguments for the port range and timeout.
 
