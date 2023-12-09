@@ -4,7 +4,6 @@ Python program that scans a target IP address for open ports. It uses the socket
 
 ## Installation
 ```
-pip install request
 pip install colorama
 ````
 
